@@ -6,4 +6,8 @@
 <div>	<a> ♥ Run the file</a>
 <div>	<a> ♥ Now it's added to your right-click menu</a>
 <div>	<a> ♥ Go to your PowerPlan file ".pow"</a>
-<div>
+
+
+
+https://github.com/WindowsTools2077/Epic-Powerplan/assets/135960690/3bd858f2-c9fa-4d9c-b52b-6886420e1dc9
+
