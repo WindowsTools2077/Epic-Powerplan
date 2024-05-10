@@ -1,4 +1,4 @@
-[![Epic](https://raw.githubusercontent.com/WindowsTools2077/Epic-Powerplan/main/media/badge3.svg)](https://github.com/WindowsTools2077/Epic-Powerplan)
+[![Epic](https://raw.githubusercontent.com/WindowsTools2077/Epic-Powerplan/main/media/badge4.svg)](https://github.com/WindowsTools2077/Epic-Powerplan)
 
 # How to use
 
